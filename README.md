@@ -30,7 +30,7 @@ Bilingual website that gives a 24-hour laundry shop its first online presence.
 #### AI & data
 
 - [RAG-With_agents](https://github.com/mohammad-qethama/RAG-With_agents): retrieval-augmented generation with agents
-- [llm-zoomcamp-eval](https://github.com/mohammad-qethama/llm-zoomcamp-eval): evaluating LLM and RAG answer quality
+- [llm-zoomcamp-eval](https://github.com/mohammad-qethama/llm-zoomcamp-eval): measuring a RAG assistant end to end; tuned search from 0.90 to 0.975 hit rate, 96% of answers judged correct, about $0.001 per answer
 - [LLM-zoomcamp-VectorSearch](https://github.com/mohammad-qethama/LLM-zoomcamp-VectorSearch): vector search for LLM apps
 - [eda_python](https://github.com/mohammad-qethama/eda_python): exploratory data analysis in Python
 
